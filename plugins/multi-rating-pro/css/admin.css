@@ -1,0 +1,81 @@
+.form-table .widefat th,.form-table .widefat td {
+	padding: 8px 10px;
+}
+form#rating-item-entry-value-table-form div.tablenav label,form#rating-item-entry-value-table-form div.tablenav input {
+	margin-right: 6px;
+}
+table.form-table .checkbox-label {
+	margin-right: 12px;
+}
+
+.filters input[type="checkbox"] {
+	margin-left: 6px;
+}
+
+
+
+/* WP-admin tables */
+table.postratingresults .column-post_id, table.postratingresults .column-comments_count, table.postratingresults .column-rating_form_id {
+	width: 10%;
+}
+
+table.postratingresults .column-title {
+	width: 25%;
+}
+table.postratingresults .column-shortcode {
+	width: 15%;
+}
+table.postratingresults .column-rating_result {
+	width: 15%;
+}
+.comment-rating-result {
+	margin-bottom: 10px;
+}
+
+table.ratingresults .column-comment {
+	width: 20%;
+}
+table.ratingresults .column-rating_result {
+	width: 15%;
+}
+
+#database-settings-form p.description {
+	font-size: 14px;
+}
+
+/* Reports */
+#reports-form p.description { 
+	margin-top: 4px;
+}
+
+.report-wrapper {
+	padding: 0px;
+	margin: 0px 0 10px 0;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+body.admin-color-classic .report-wrapper {
+	background: #fff;
+	background-color: #f7fcfe;
+	border: 1px solid #d1e5ee;
+}
+
+.flot-container {
+	width: 100%;
+	max-width: 100%;
+	display: inline-block;
+}
+
+.report-placeholder {
+	margin: 10px;
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	line-height: 1.2em;
+}
+
+
+#reports-form select {
+	max-width: 180px;
+}

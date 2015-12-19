@@ -1,0 +1,1242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multi-rating-pro\n"
+"POT-Creation-Date: 2014-07-23 21:13+1000\n"
+"PO-Revision-Date: 2014-07-23 21:13+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../multi-rating-api.php:1595
+msgid "Entry ID"
+msgstr ""
+
+#: ../multi-rating-api.php:1596 ../rating-item-entry-table.php:122
+msgid "Entry Date"
+msgstr ""
+
+#: ../multi-rating-api.php:1597
+msgid "Post ID"
+msgstr ""
+
+#: ../multi-rating-api.php:1598
+msgid "Post Title"
+msgstr ""
+
+#: ../multi-rating-api.php:1599
+msgid "Rating Form ID"
+msgstr ""
+
+#: ../multi-rating-api.php:1600
+msgid "Rating Form Name"
+msgstr ""
+
+#: ../multi-rating-api.php:1601
+msgid "Score Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1602
+msgid "Adjusted Score Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1603
+msgid "Total Max Option Value"
+msgstr ""
+
+#: ../multi-rating-api.php:1604
+msgid "Percentage Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1605
+msgid "Adjusted Percentage Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1606
+msgid "Star Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1607
+msgid "Adjusted Star Rating Result"
+msgstr ""
+
+#: ../multi-rating-api.php:1608 ../rating-item-entry-table.php:124
+msgid "Username"
+msgstr ""
+
+#: ../multi-rating-api.php:1609 ../rating-item-entry-table.php:130
+msgid "Comment ID"
+msgstr ""
+
+#: ../multi-rating-api.php:1610 ../rating-item-entry-table.php:127
+msgid "Comment"
+msgstr ""
+
+#: ../multi-rating-api.php:1611 ../multi-rating-pro.php:2578
+#: ../rating-form-table.php:57 ../rating-form-view.php:124
+#: ../rating-item-entry-table.php:125
+msgid "Name"
+msgstr ""
+
+#: ../multi-rating-api.php:1612 ../rating-form-view.php:128
+#: ../rating-item-entry-table.php:126
+msgid "E-mail"
+msgstr ""
+
+#: ../multi-rating-pro.php:575
+msgid "Multi Rating"
+msgstr ""
+
+#: ../multi-rating-pro.php:675 ../post-rating-results-table.php:52
+#: ../rating-item-entry-table.php:83 ../widgets.php:92
+msgid "Rating Form"
+msgstr ""
+
+#: ../multi-rating-pro.php:677 ../multi-rating-pro.php:698
+#: ../multi-rating-pro.php:707 ../multi-rating-pro.php:715
+#: ../multi-rating-pro.php:723 ../multi-rating-pro.php:731
+msgid "Use default settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:695 ../multi-rating-pro.php:1233
+msgid "Rating form position"
+msgstr ""
+
+#: ../multi-rating-pro.php:697 ../multi-rating-pro.php:706
+msgid "Do not show"
+msgstr ""
+
+#: ../multi-rating-pro.php:699 ../multi-rating-pro.php:1285
+msgid "Before content"
+msgstr ""
+
+#: ../multi-rating-pro.php:700 ../multi-rating-pro.php:1286
+msgid "After content"
+msgstr ""
+
+#: ../multi-rating-pro.php:704
+msgid "Rating result position"
+msgstr ""
+
+#: ../multi-rating-pro.php:708 ../multi-rating-pro.php:1272
+msgid "Before title"
+msgstr ""
+
+#: ../multi-rating-pro.php:709 ../multi-rating-pro.php:1273
+msgid "After title"
+msgstr ""
+
+#: ../multi-rating-pro.php:713 ../multi-rating-pro.php:856
+msgid "Allow anonymous ratings"
+msgstr ""
+
+#: ../multi-rating-pro.php:716 ../multi-rating-pro.php:724
+#: ../multi-rating-pro.php:732 ../rating-form-table.php:106
+#: ../rating-item-table.php:414
+msgid "Yes"
+msgstr ""
+
+#: ../multi-rating-pro.php:717 ../multi-rating-pro.php:725
+#: ../multi-rating-pro.php:733 ../rating-form-table.php:108
+#: ../rating-item-table.php:414
+msgid "No"
+msgstr ""
+
+#: ../multi-rating-pro.php:721 ../multi-rating-pro.php:858
+msgid "Enable ratings to be added to the WP comment form"
+msgstr ""
+
+#: ../multi-rating-pro.php:729 ../multi-rating-pro.php:859
+msgid "Enable ratings to be displayed with WP comments"
+msgstr ""
+
+#: ../multi-rating-pro.php:772
+msgid "Please rate this"
+msgstr ""
+
+#: ../multi-rating-pro.php:773
+msgid "Top Rating Results"
+msgstr ""
+
+#: ../multi-rating-pro.php:774
+msgid "User Rating Results"
+msgstr ""
+
+#: ../multi-rating-pro.php:775
+msgid "Rating Result Reviews"
+msgstr ""
+
+#: ../multi-rating-pro.php:776
+msgid "Rating Item Results"
+msgstr ""
+
+#: ../multi-rating-pro.php:777
+msgid "Submit Rating"
+msgstr ""
+
+#: ../multi-rating-pro.php:778
+msgid "Update Rating"
+msgstr ""
+
+#: ../multi-rating-pro.php:779
+msgid "Delete Rating"
+msgstr ""
+
+#: ../multi-rating-pro.php:780
+msgid "Rating form has been successfully submitted. "
+msgstr ""
+
+#: ../multi-rating-pro.php:781
+msgid "Rating form has been successfully updated. "
+msgstr ""
+
+#: ../multi-rating-pro.php:782
+msgid "Rating form has been successfully deleted. "
+msgstr ""
+
+#: ../multi-rating-pro.php:783
+msgid "You cannot submit a rating form for the same post multiple times."
+msgstr ""
+
+#: ../multi-rating-pro.php:784
+msgid "No rating results yet"
+msgstr ""
+
+#: ../multi-rating-pro.php:785
+msgid "You have already submitted this rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:786
+msgid "You must be logged in to submit a rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:800 ../multi-rating-pro.php:804
+#: ../multi-rating-pro.php:855
+msgid "Default Rating Form"
+msgstr ""
+
+#: ../multi-rating-pro.php:850 ../multi-rating-pro.php:1998
+msgid "General"
+msgstr ""
+
+#: ../multi-rating-pro.php:851 ../post-rating-results-table.php:95
+#: ../rating-form-view.php:132
+msgid "Comments"
+msgstr ""
+
+#: ../multi-rating-pro.php:852
+msgid "Validation"
+msgstr ""
+
+#: ../multi-rating-pro.php:854
+msgid "Post Types"
+msgstr ""
+
+#: ../multi-rating-pro.php:861
+msgid "Show rating result after rating form submit"
+msgstr ""
+
+#: ../multi-rating-pro.php:862
+msgid "Rating form IP address & date validation"
+msgstr ""
+
+#: ../multi-rating-pro.php:865
+msgid "Rating form IP address & date validation days duration"
+msgstr ""
+
+#: ../multi-rating-pro.php:872
+msgid "General settings."
+msgstr ""
+
+#: ../multi-rating-pro.php:878
+msgid "Settings to integrate with WordPress comments system."
+msgstr ""
+
+#: ../multi-rating-pro.php:884
+msgid "Additional rating form validation checks."
+msgstr ""
+
+#: ../multi-rating-pro.php:892
+msgid ""
+"Restrict the same IP address from submitting the same rating form for the "
+"same post multiple times."
+msgstr ""
+
+#: ../multi-rating-pro.php:901
+msgid ""
+"Allow anonymous users to submit ratings. If this is not checked, only logged "
+"in users will be allowed to submit ratings."
+msgstr ""
+
+#: ../multi-rating-pro.php:910
+#, php-format
+msgid "Enable ratings to be added to the WP comment form. See %s and %s."
+msgstr ""
+
+#: ../multi-rating-pro.php:919
+#, php-format
+msgid "Enable ratings to be displayed with WP comments. See %s."
+msgstr ""
+
+#: ../multi-rating-pro.php:928
+msgid "Set the duration of days for the IP address & date validation check."
+msgstr ""
+
+#: ../multi-rating-pro.php:982
+msgid "Select the post types to be enabled."
+msgstr ""
+
+#: ../multi-rating-pro.php:991
+msgid ""
+"Show rating results after the rating form has been submitted (e.g. You "
+"rating result was 4/5)."
+msgstr ""
+
+#: ../multi-rating-pro.php:1057
+msgid "Filter Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:1059
+msgid "Exclude home page"
+msgstr ""
+
+#: ../multi-rating-pro.php:1060
+msgid "Exclude archive pages"
+msgstr ""
+
+#: ../multi-rating-pro.php:1061
+msgid "Filter type for posts"
+msgstr ""
+
+#: ../multi-rating-pro.php:1062
+msgid "Filter Post Id's"
+msgstr ""
+
+#: ../multi-rating-pro.php:1063
+msgid "Filter type for categories"
+msgstr ""
+
+#: ../multi-rating-pro.php:1064
+msgid "Filter Category Id's"
+msgstr ""
+
+#: ../multi-rating-pro.php:1065
+msgid "Filter type for pages"
+msgstr ""
+
+#: ../multi-rating-pro.php:1066
+msgid "Filter Page URL's"
+msgstr ""
+
+#: ../multi-rating-pro.php:1073
+#, php-format
+msgid ""
+"Add specific filters to restrict when %s and %s WP filters are applied in "
+"order to automaticlaly display the rating result and rating form in set "
+"positions on every page or post."
+msgstr ""
+
+#: ../multi-rating-pro.php:1083 ../multi-rating-pro.php:1106
+#: ../multi-rating-pro.php:1128
+msgid "Whitelist"
+msgstr ""
+
+#: ../multi-rating-pro.php:1085 ../multi-rating-pro.php:1108
+#: ../multi-rating-pro.php:1130
+msgid "Blacklist"
+msgstr ""
+
+#: ../multi-rating-pro.php:1086 ../multi-rating-pro.php:1109
+#: ../multi-rating-pro.php:1131
+msgid "Set a filter type to either include (whitelist) or exclude (blacklist)."
+msgstr ""
+
+#: ../multi-rating-pro.php:1097
+msgid "Comma separated list of Post Id's."
+msgstr ""
+
+#: ../multi-rating-pro.php:1119
+msgid "Comma separated list of Category Id\\s."
+msgstr ""
+
+#: ../multi-rating-pro.php:1141
+msgid "Each page URL must be on a newline."
+msgstr ""
+
+#: ../multi-rating-pro.php:1150
+#, php-format
+msgid ""
+"An archive page includes a Category, Tag, Author or a Date based pages. See "
+"%s function."
+msgstr ""
+
+#: ../multi-rating-pro.php:1157
+#, php-format
+msgid "See %s function."
+msgstr ""
+
+#: ../multi-rating-pro.php:1171
+msgid "No posts to filter."
+msgstr ""
+
+#: ../multi-rating-pro.php:1176
+#, php-format
+msgid "Invalid Post Id %s."
+msgstr ""
+
+#: ../multi-rating-pro.php:1185
+msgid "No categories to filter."
+msgstr ""
+
+#: ../multi-rating-pro.php:1190
+#, php-format
+msgid "Invalid Category Id %s."
+msgstr ""
+
+#: ../multi-rating-pro.php:1229
+msgid "Position Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:1230
+msgid "Show Additional Fields"
+msgstr ""
+
+#: ../multi-rating-pro.php:1232
+msgid "Rating results position"
+msgstr ""
+
+#: ../multi-rating-pro.php:1235
+msgid "Show name input"
+msgstr ""
+
+#: ../multi-rating-pro.php:1236
+msgid "Show email input"
+msgstr ""
+
+#: ../multi-rating-pro.php:1237
+msgid "Show comment textarea"
+msgstr ""
+
+#: ../multi-rating-pro.php:1238
+msgid "Generate rich snippets"
+msgstr ""
+
+#: ../multi-rating-pro.php:1245
+msgid ""
+"These settings allow you to automatically place the rating form and rating "
+"results on every post or page in default positions. You can override these "
+"settings for a particular page or post using the Multi Rating meta box in "
+"the edit post page. You can also choose to turn off rich snippets markup."
+msgstr ""
+
+#: ../multi-rating-pro.php:1253
+msgid ""
+"Showing a name input, email input and comment textarea can be added to the "
+"rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:1262
+msgid ""
+"Genrate schema.org rich snippets markup (i.e. aggregate 5 star rating that "
+"is returned in search engine results)."
+msgstr ""
+
+#: ../multi-rating-pro.php:1271 ../multi-rating-pro.php:1284
+msgid "None"
+msgstr ""
+
+#: ../multi-rating-pro.php:1275
+msgid ""
+"Choose to automatically display the rating result before or after the post "
+"title for all enabled post types."
+msgstr ""
+
+#: ../multi-rating-pro.php:1288
+msgid ""
+"Choose to automatically display the rating form before or after the post "
+"content for all enabled post types."
+msgstr ""
+
+#: ../multi-rating-pro.php:1297
+msgid "Add a name input on the rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:1306
+msgid "Add an e-mail address input on the rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:1312
+msgid "Add a comments textarea on the rating form."
+msgstr ""
+
+#: ../multi-rating-pro.php:1358
+msgid "Style Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:1360
+msgid "Custom CSS"
+msgstr ""
+
+#: ../multi-rating-pro.php:1362
+msgid "Star rating color"
+msgstr ""
+
+#: ../multi-rating-pro.php:1363
+msgid "Star rating on hover color"
+msgstr ""
+
+#: ../multi-rating-pro.php:1365
+msgid "Include loading Font Awesome"
+msgstr ""
+
+#: ../multi-rating-pro.php:1366
+msgid "Font Awesome version"
+msgstr ""
+
+#: ../multi-rating-pro.php:1381
+msgid "Do you want the plugin to include loading of the Font Awesome CSS?"
+msgstr ""
+
+#: ../multi-rating-pro.php:1446
+msgid "Custom Text Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:1448
+msgid "Rating form title"
+msgstr ""
+
+#: ../multi-rating-pro.php:1449
+msgid "Top Rating Results title"
+msgstr ""
+
+#: ../multi-rating-pro.php:1450
+msgid "User Rating Results title"
+msgstr ""
+
+#: ../multi-rating-pro.php:1451
+msgid "Rating Item Results title"
+msgstr ""
+
+#: ../multi-rating-pro.php:1453
+msgid "Submit rating form button text"
+msgstr ""
+
+#: ../multi-rating-pro.php:1454
+msgid "Update rating form button text"
+msgstr ""
+
+#: ../multi-rating-pro.php:1455
+msgid "Delete rating form button text"
+msgstr ""
+
+#: ../multi-rating-pro.php:1457
+msgid "Submit rating success message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1458
+msgid "Update rating success message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1459
+msgid "Delete rating success message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1461
+msgid "Date validation failure message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1462
+msgid "No rating results text"
+msgstr ""
+
+#: ../multi-rating-pro.php:1463
+msgid "Already submitted rating form message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1464
+msgid "Allow anonymous ratings failuire message"
+msgstr ""
+
+#: ../multi-rating-pro.php:1465
+msgid "Character encoding"
+msgstr ""
+
+#: ../multi-rating-pro.php:1472
+msgid "Modify the default text and messages."
+msgstr ""
+
+#: ../multi-rating-pro.php:1600
+msgid "Keep current charset (Recommended)"
+msgstr ""
+
+#: ../multi-rating-pro.php:1601
+msgid "UTF-8 (try this first)"
+msgstr ""
+
+#: ../multi-rating-pro.php:1602
+msgid "latin1_swedish_ci"
+msgstr ""
+
+#: ../multi-rating-pro.php:1643
+msgid "Multi Rating Pro"
+msgstr ""
+
+#: ../multi-rating-pro.php:1646 ../multi-rating-pro.php:2258
+#: ../post-rating-results-table.php:32 ../post-rating-results-table.php:33
+#: ../rating-item-entry-table.php:36 ../rating-item-entry-table.php:37
+msgid "Rating Results"
+msgstr ""
+
+#: ../multi-rating-pro.php:1647 ../multi-rating-pro.php:2315
+#: ../rating-form-table.php:58 ../rating-item-table.php:32
+#: ../rating-item-table.php:33
+msgid "Rating Items"
+msgstr ""
+
+#: ../multi-rating-pro.php:1648 ../multi-rating-pro.php:2512
+msgid "Add New Rating Item"
+msgstr ""
+
+#: ../multi-rating-pro.php:1649 ../multi-rating-pro.php:1913
+#: ../rating-form-table.php:27 ../rating-form-table.php:28
+msgid "Rating Forms"
+msgstr ""
+
+#: ../multi-rating-pro.php:1650 ../multi-rating-pro.php:2572
+#: ../multi-rating-pro.php:2594
+msgid "Add New Rating Form"
+msgstr ""
+
+#: ../multi-rating-pro.php:1651
+msgid "Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:1652 ../multi-rating-pro.php:1668
+msgid "Reports"
+msgstr ""
+
+#: ../multi-rating-pro.php:1653
+msgid "About"
+msgstr ""
+
+#: ../multi-rating-pro.php:1669
+msgid "Export / Import"
+msgstr ""
+
+#: ../multi-rating-pro.php:1684
+msgid "Export Rating Results"
+msgstr ""
+
+#: ../multi-rating-pro.php:1686
+msgid "Export Rating Results to a CSV file."
+msgstr ""
+
+#: ../multi-rating-pro.php:1696
+msgid "All posts / pages"
+msgstr ""
+
+#: ../multi-rating-pro.php:1714
+msgid "All rating forms"
+msgstr ""
+
+#: ../multi-rating-pro.php:1730 ../rating-item-entry-table.php:98
+msgid "Comments only"
+msgstr ""
+
+#: ../multi-rating-pro.php:1736
+msgid "Export"
+msgstr ""
+
+#: ../multi-rating-pro.php:1744
+msgid "Number of entries per day"
+msgstr ""
+
+#: ../multi-rating-pro.php:1913 ../multi-rating-pro.php:2315
+msgid "Add New"
+msgstr ""
+
+#: ../multi-rating-pro.php:1999
+msgid "Auto Placement"
+msgstr ""
+
+#: ../multi-rating-pro.php:2000
+msgid "Custom Text"
+msgstr ""
+
+#: ../multi-rating-pro.php:2001
+msgid "Style"
+msgstr ""
+
+#: ../multi-rating-pro.php:2002
+msgid "Database"
+msgstr ""
+
+#: ../multi-rating-pro.php:2003
+msgid "Filters"
+msgstr ""
+
+#: ../multi-rating-pro.php:2004
+msgid "License"
+msgstr ""
+
+#: ../multi-rating-pro.php:2016
+msgid "Settings saved."
+msgstr ""
+
+#: ../multi-rating-pro.php:2028
+msgid "Database cleared successfully."
+msgstr ""
+
+#: ../multi-rating-pro.php:2030
+#, php-format
+msgid "An error has occured. %s"
+msgstr ""
+
+#: ../multi-rating-pro.php:2096
+msgid "Clear Database"
+msgstr ""
+
+#: ../multi-rating-pro.php:2114
+msgid "License Key"
+msgstr ""
+
+#: ../multi-rating-pro.php:2118
+msgid ""
+"Enter your license key. This is used to provide automatic updates of the "
+"WordPress plugin."
+msgstr ""
+
+#: ../multi-rating-pro.php:2125 ../multi-rating-pro.php:2134
+msgid "Activate License"
+msgstr ""
+
+#: ../multi-rating-pro.php:2129
+msgid "Active"
+msgstr ""
+
+#: ../multi-rating-pro.php:2131
+msgid "Deactivate License"
+msgstr ""
+
+#: ../multi-rating-pro.php:2259 ../post-rating-results-table.php:94
+msgid "Entries"
+msgstr ""
+
+#: ../multi-rating-pro.php:2260 ../rating-item-entry-value-table.php:30
+#: ../rating-item-entry-value-table.php:31
+msgid "Entry Values"
+msgstr ""
+
+#: ../multi-rating-pro.php:2340 ../rating-item-table.php:339
+msgid "Description cannot be empty. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2351 ../rating-item-table.php:344
+msgid "Max option value cannot be empty and must be a whole number. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2355 ../rating-item-table.php:357
+msgid "Default option value cannot be empty and must be a whole number. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2363 ../rating-item-table.php:348
+#: ../rating-item-table.php:361
+msgid "Default option value cannot be greater than the max option value. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2410
+msgid "An error occured adding rating item to default rating form. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2414
+msgid "Rating item added successfully."
+msgstr ""
+
+#: ../multi-rating-pro.php:2417
+msgid "An error occured. Rating item could not be added."
+msgstr ""
+
+#: ../multi-rating-pro.php:2440
+msgid " Add New Rating Item"
+msgstr ""
+
+#: ../multi-rating-pro.php:2446 ../rating-item-entry-value-table.php:68
+#: ../rating-item-table.php:61
+msgid "Description"
+msgstr ""
+
+#: ../multi-rating-pro.php:2448
+msgid "Enter description."
+msgstr ""
+
+#: ../multi-rating-pro.php:2449
+msgid "Enter a rating item description."
+msgstr ""
+
+#: ../multi-rating-pro.php:2453 ../rating-item-table.php:62
+msgid "Type"
+msgstr ""
+
+#: ../multi-rating-pro.php:2456 ../rating-item-table.php:155
+#: ../rating-item-table.php:411
+msgid "Select"
+msgstr ""
+
+#: ../multi-rating-pro.php:2457 ../rating-item-table.php:155
+#: ../rating-item-table.php:411
+msgid "Radio"
+msgstr ""
+
+#: ../multi-rating-pro.php:2458 ../rating-item-table.php:155
+#: ../rating-item-table.php:411
+msgid "Star Rating"
+msgstr ""
+
+#: ../multi-rating-pro.php:2459 ../rating-item-table.php:155
+#: ../rating-item-table.php:411
+msgid "Thumbs"
+msgstr ""
+
+#: ../multi-rating-pro.php:2461
+msgid ""
+"Do you want to use a select drop-down list, radio buttons star rating icons "
+"or thumbs up/down icons from Font Awesome?"
+msgstr ""
+
+#: ../multi-rating-pro.php:2465 ../rating-item-entry-value-table.php:70
+#: ../rating-item-table.php:65
+msgid "Max Option Value"
+msgstr ""
+
+#: ../multi-rating-pro.php:2467
+msgid "Enter max option value"
+msgstr ""
+
+#: ../multi-rating-pro.php:2468
+msgid ""
+"If the max option value is set to 5, then the rating item options would be "
+"0, 1, 2, 3, 4 and 5."
+msgstr ""
+
+#: ../multi-rating-pro.php:2472 ../rating-item-table.php:64
+msgid "Default Option Value"
+msgstr ""
+
+#: ../multi-rating-pro.php:2474
+msgid "Enter default option value"
+msgstr ""
+
+#: ../multi-rating-pro.php:2475
+msgid "This is used to default the selected option value."
+msgstr ""
+
+#: ../multi-rating-pro.php:2480 ../rating-item-table.php:67
+msgid "Option Value Text"
+msgstr ""
+
+#: ../multi-rating-pro.php:2482
+msgid "Enter option value text."
+msgstr ""
+
+#: ../multi-rating-pro.php:2483
+msgid ""
+"Add text descriptions to be displayed for select and radio options. Each "
+"option value and text decription must be on a newline. Format = "
+"<code>value=description</code>. If a text description is not provided for an "
+"option value, the value will be displayed. e.g. <br />0=Needs "
+"Improvement<br />1=Good<br />2=Very good"
+msgstr ""
+
+#: ../multi-rating-pro.php:2488
+msgid "Weight"
+msgstr ""
+
+#: ../multi-rating-pro.php:2490
+msgid "Enter weight"
+msgstr ""
+
+#: ../multi-rating-pro.php:2492
+msgid ""
+"All rating items are rated equally by default. Modifying the weight of a "
+"rating item will adjust the rating results accordingly. Decimal values can "
+"be used."
+msgstr ""
+
+#: ../multi-rating-pro.php:2496
+msgid "Include Zero"
+msgstr ""
+
+#: ../multi-rating-pro.php:2499
+msgid ""
+"Do you want 0 to be included as an option value? For star ratings, this "
+"means allowing empty."
+msgstr ""
+
+#: ../multi-rating-pro.php:2504
+msgid "Add to default rating form"
+msgstr ""
+
+#: ../multi-rating-pro.php:2531
+msgid "Name cannot be empty. "
+msgstr ""
+
+#: ../multi-rating-pro.php:2545
+msgid "Rating form added successfully."
+msgstr ""
+
+#: ../multi-rating-pro.php:2548
+msgid "An error occured. Rating form could not be added."
+msgstr ""
+
+#: ../multi-rating-pro.php:2584
+msgid "Rating items"
+msgstr ""
+
+#: ../multi-rating-pro.php:2587
+msgid ""
+"Enter a comma separated list of Rating Item Id's e.g. 1,2,3 etc... This can "
+"be done later."
+msgstr ""
+
+#: ../multi-rating-pro.php:2710
+msgid "An error has occured."
+msgstr ""
+
+#: ../multi-rating-pro.php:2726
+msgid ""
+"You cannot delete a rating you did not submit or the rating may already be "
+"deleted."
+msgstr ""
+
+#: ../multi-rating-pro.php:2763
+msgid "Name cannot be greater than 100 characters."
+msgstr ""
+
+#: ../multi-rating-pro.php:2767
+msgid "E-mail cannot be greater than 255 characters."
+msgstr ""
+
+#: ../multi-rating-pro.php:2771
+msgid "E-mail is invalid."
+msgstr ""
+
+#: ../multi-rating-pro.php:2775
+msgid "Comments cannot be greater than 1020 characters."
+msgstr ""
+
+#: ../multi-rating-pro.php:2837 ../multi-rating-pro.php:2883
+#: ../rating-form-table.php:227 ../rating-item-table.php:307
+msgid "An error occured"
+msgstr ""
+
+#: ../multi-rating-pro.php:2914
+msgid "You cannot update a rating form entry you did not submit."
+msgstr ""
+
+#: ../multi-rating-pro.php:2927
+#, php-format
+msgid "Your rating was %s/5"
+msgstr ""
+
+#: ../multi-rating-pro.php:2964
+#, php-format
+msgid "Multi Rating Pro v%s"
+msgstr ""
+
+#: ../multi-rating-pro.php:2966
+msgid "Provides advanced features to the free Multi Rating plugin."
+msgstr ""
+
+#: ../multi-rating-pro.php:2973
+msgid "Support"
+msgstr ""
+
+#: ../multi-rating-pro.php:2974
+msgid "Documentation"
+msgstr ""
+
+#: ../multi-rating-pro.php:2975
+msgid "Affiliates"
+msgstr ""
+
+#: ../multi-rating-pro.php:2988
+#, php-format
+msgid ""
+"Please use the <a href=\"%1$s\">contact form</a> for all Multi Rating Pro "
+"plugin support. Please check the <a href=\"%2$s\">documentation</a> "
+"available first before submitting a technical support request. Please note "
+"that the WordPress.org support forum is not to be used for premium plugin "
+"support."
+msgstr ""
+
+#: ../multi-rating-pro.php:2997
+#, php-format
+msgid "All plugin documentation is available <a href=\"%1$s\">here</a>"
+msgstr ""
+
+#: ../multi-rating-pro.php:3003
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Register as an affiliate</a> and tell the world about Multi "
+"Rating Pro."
+msgstr ""
+
+#: ../multi-rating-pro.php:3049
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">Multi Rating Pro</a>!"
+msgstr ""
+
+#: ../post-rating-results-table.php:71 ../rating-item-entry-table.php:100
+#: ../rating-result-view.php:117 ../rating-result-view.php:220
+#: ../rating-result-view.php:324 ../rating-result-view.php:501
+msgid "Filter"
+msgstr ""
+
+#: ../post-rating-results-table.php:90 ../rating-item-entry-table.php:120
+msgid "Post Id"
+msgstr ""
+
+#: ../post-rating-results-table.php:91 ../rating-form-table.php:56
+#: ../rating-item-entry-table.php:121
+msgid "Rating Form Id"
+msgstr ""
+
+#: ../post-rating-results-table.php:92 ../widgets.php:84 ../widgets.php:212
+msgid "Title"
+msgstr ""
+
+#: ../post-rating-results-table.php:93 ../rating-item-entry-table.php:128
+msgid "Rating Result"
+msgstr ""
+
+#: ../post-rating-results-table.php:96 ../rating-item-entry-table.php:129
+msgid "Action"
+msgstr ""
+
+#: ../post-rating-results-table.php:97
+msgid "Shortcode"
+msgstr ""
+
+#: ../post-rating-results-table.php:189
+msgid "View Entries"
+msgstr ""
+
+#: ../post-rating-results-table.php:226 ../rating-item-entry-table.php:280
+msgid "Star Rating: "
+msgstr ""
+
+#: ../post-rating-results-table.php:227 ../rating-item-entry-table.php:281
+msgid "Score: "
+msgstr ""
+
+#: ../post-rating-results-table.php:228 ../rating-item-entry-table.php:282
+msgid "Percentage: "
+msgstr ""
+
+#: ../post-rating-results-table.php:265
+msgid "Delete Rating Results"
+msgstr ""
+
+#: ../post-rating-results-table.php:293
+#, php-format
+msgid ""
+"Rating results deleted successfully for Post Id %s and Rating Form Id %s."
+msgstr ""
+
+#: ../rating-form-table.php:58
+msgid "(Comma separated list of Rating Item Id's)"
+msgstr ""
+
+#: ../rating-form-table.php:59
+msgid "Default"
+msgstr ""
+
+#: ../rating-form-table.php:153 ../rating-form-table.php:175
+#: ../rating-item-table.php:159 ../rating-item-table.php:194
+#: ../rating-item-table.php:223 ../rating-item-table.php:245
+msgid "Edit"
+msgstr ""
+
+#: ../rating-form-table.php:154 ../rating-form-table.php:176
+#: ../rating-item-table.php:173 ../rating-item-table.php:197
+#: ../rating-item-table.php:224 ../rating-item-table.php:254
+msgid "Save"
+msgstr ""
+
+#: ../rating-form-table.php:187 ../rating-item-entry-table.php:313
+#: ../rating-item-table.php:264
+msgid "Delete"
+msgstr ""
+
+#: ../rating-form-table.php:208
+msgid "Rating forms deleted successfully"
+msgstr ""
+
+#: ../rating-form-table.php:244 ../rating-item-table.php:395
+msgid "An error occured."
+msgstr ""
+
+#: ../rating-form-view.php:125
+msgid "Enter your name"
+msgstr ""
+
+#: ../rating-form-view.php:129
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: ../rating-form-view.php:133
+msgid "Enter comments"
+msgstr ""
+
+#: ../rating-item-entry-table.php:69
+msgid "Post"
+msgstr ""
+
+#: ../rating-item-entry-table.php:119 ../rating-item-entry-value-table.php:49
+#: ../rating-item-entry-value-table.php:66
+msgid "Entry Id"
+msgstr ""
+
+#: ../rating-item-entry-table.php:123
+msgid "IP Address"
+msgstr ""
+
+#: ../rating-item-entry-table.php:263
+msgid "(Not yet approved)"
+msgstr ""
+
+#: ../rating-item-entry-table.php:267
+msgid "Edit Comment"
+msgstr ""
+
+#: ../rating-item-entry-table.php:287
+msgid "View Entry Values"
+msgstr ""
+
+#: ../rating-item-entry-table.php:337
+msgid "Entries deleted successfully"
+msgstr ""
+
+#: ../rating-item-entry-value-table.php:51
+msgid "Submit"
+msgstr ""
+
+#: ../rating-item-entry-value-table.php:67 ../rating-item-table.php:59
+msgid "Rating Item Id"
+msgstr ""
+
+#: ../rating-item-entry-value-table.php:69
+msgid "Value"
+msgstr ""
+
+#: ../rating-item-table.php:63
+msgid " Weight"
+msgstr ""
+
+#: ../rating-item-table.php:66
+msgid "Include zero"
+msgstr ""
+
+#: ../rating-item-table.php:67
+msgid "Each option must be separated on a newline "
+msgstr ""
+
+#: ../rating-item-table.php:67
+msgid "value=text description"
+msgstr ""
+
+#: ../rating-item-table.php:285
+msgid "Rating items deleted successfully."
+msgstr ""
+
+#: ../rating-item-table.php:352
+msgid "Max option value must be 1 for thumbs rating item type. "
+msgstr ""
+
+#: ../rating-item-table.php:365
+msgid "Default option value must be 0 or 1 for thumbs rating item type. "
+msgstr ""
+
+#: ../rating-item-table.php:370
+msgid "Weight must be numeric. "
+msgstr ""
+
+#: ../rating-result-view.php:108 ../rating-result-view.php:211
+#: ../rating-result-view.php:315 ../rating-result-view.php:492
+#: ../widgets.php:114 ../widgets.php:220
+msgid "Category"
+msgstr ""
+
+#: ../rating-result-view.php:357 ../rating-result-view.php:586
+msgid "Anonymous"
+msgstr ""
+
+#: ../rating-result-view.php:441 ../rating-result-view.php:613
+msgid "View more"
+msgstr ""
+
+#: ../update-check.php:19
+msgid ""
+"An error occured updating the plugin file structure! Try manually deleting "
+"the plugin files to fix the problem."
+msgstr ""
+
+#: ../utils.php:80
+#, php-format
+msgid "Invalid option value text %s."
+msgstr ""
+
+#: ../utils.php:88
+#, php-format
+msgid "Duplicate option value %s."
+msgstr ""
+
+#: ../utils.php:95
+#, php-format
+msgid "Option value greater than max option value %s."
+msgstr ""
+
+#: ../utils.php:137
+msgid "An invalid rating item was used."
+msgstr ""
+
+#: ../utils.php:155
+msgid "Invalid Rating Form Id was used."
+msgstr ""
+
+#: ../widgets.php:10
+msgid "Displays the top rating results."
+msgstr ""
+
+#: ../widgets.php:13
+msgid "Top Rating Results Widget"
+msgstr ""
+
+#: ../widgets.php:88 ../widgets.php:216
+msgid "Limit"
+msgstr ""
+
+#: ../widgets.php:121 ../widgets.php:227
+msgid "All"
+msgstr ""
+
+#: ../widgets.php:126 ../widgets.php:232
+msgid "Show category filter"
+msgstr ""
+
+#: ../widgets.php:140
+msgid "Displays all rating results belonging to a logged in user."
+msgstr ""
+
+#: ../widgets.php:143
+msgid "User Rating Results Widget"
+msgstr ""

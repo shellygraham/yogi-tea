@@ -1,0 +1,273 @@
+/* Rating Form */
+div.rating-form form {
+	margin: 0px;
+	width : auto;
+	max-width: 100%;
+	display: table;
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+div.rating-form input[type="button"] {
+	display: inline-block;
+}
+div.rating-form form table {
+	width: 100%;
+	text-align: left;
+}
+div.rating-form form h4 {
+	font-weight: bold;
+}
+div.rating-form form table td {
+	vertical-align: top;
+}
+div.rating-form form table label {
+	font-weight: normal;
+	vertical-align: text-top;
+}
+div.rating-form form table .value {
+	padding-bottom: 10px;
+	text-align: right;
+}
+div.rating-form form table .value select {
+	min-width: 50px;
+}
+div.rating-form form table textarea, div.rating-form form table input {
+	min-weight: 100%;
+	width: 100%;
+}
+div.rating-form form table input[type=radio] {
+	width: auto;
+	margin-right: 2px;
+	margin-left: 10px;
+}
+div.rating-form form table input[type=button] {
+	width: auto;
+}
+div.rating-form form .save-rating {
+	
+}
+div.rating-form form .delete-rating {
+	margin-right: 10px;
+}
+div.rating-form form table label.textarea-label, div.rating-form form table label.input-label {
+	display: block;
+	padding-bottom: 0px;
+}
+div.rating-form div.radio-option {
+	display: inline-block;
+}
+div.rating-form form table .action {
+	text-align: right;
+}
+.rating-form textarea {
+	width: 100%;
+	max-width: 100%;
+}
+
+.rating-item .radio-option label {
+	display: inline-block !important;
+}
+.rating-item label + .radio-option, .rating-item label + select {
+	margin-top: 5px;
+}
+.rating-item .radio-option {
+	margin-right: 10px;
+	display: inline-block;
+}
+.rating-item .radio-option input {
+	margin-right: 2px;
+	display: inline-block;
+}
+label.description + select, label.description input {
+	margin-left: 5px;
+}
+.rating-item label.description + .radio-option {
+	margin-right: 10px;
+}
+label.description {
+	display: inline-block !important;
+}
+.star-rating-select .mrp-minus {
+	margin-right: 5px;
+}
+.rating-result a + .score-result, .rating-result a + .score-result + .count, 
+.rating-result a + .percentage-result, .rating-result a + .percentage-result + .count,
+.star-result + .count, .rating-result .star-rating + .star-result, .rating-result .star-result + .count, .rating-result .star-rating, .star-rating + .star-result {
+	margin-left: 5px;
+}
+
+
+/* Rating Results */
+h1 .star-rating, h1 .star-result, h1 .no-rating-results-text, h1 .count {
+	font-size: 65%;
+	text-transform: none;
+	font-weight: normal;
+	display: inline-block;
+	margin-left: 5px;
+	text-align: left;
+	vertical-align: top;
+}
+h1 .no-rating-results-text {
+	display: inline;
+}
+.rating-result-summary {
+	display: inline-block;
+	margin-left: 5px;
+}
+.rating-result .star-rating, .rating-result .star-result, .rating-result .count, .rating-result {
+	display: inline-block;
+}
+
+
+
+/* Rating Result Reviews */
+.rating-result-reviews table tbody tr td {
+	vertical-align: top;
+}
+.rating-result-reviews table tbody tr + tr td {
+	padding-top: 10px;
+}
+
+.review-details {
+	margin-bottom: 10px;
+}
+
+.rating-result-reviews table .review-details {
+	margin-left: 15px;
+}
+.rating-result-review + .rating-result-review {
+	margin-top: 20px;
+}
+.rating-result-reviews .rating-item-result, 
+.rating-result-reviews .comment, .rating-result-reviews table .review-meta {
+	display: block;
+} 
+.review-meta .name, .review-meta .date {
+	display: inline-block;
+}
+
+
+/* User Rating Results */
+.user-rating-results table tbody tr td {
+	vertical-align: top;
+}
+.user-rating-results table tbody tr + tr td {
+	margin-top: 2px;
+}
+.user-rating-results .rank, .user-rating-results .rating-result, .user-rating-results .title, .user-rating-results .count, .user-rating-results .date {
+	margin-right: 5px;
+}
+
+
+
+/* Top Rating Results */
+.top-rating-results table tbody tr td {
+	vertical-align: top;
+}
+.top-rating-results table tbody tr + tr td {
+	margin-top: 2px;
+}
+.top-rating-results .rank, .top-rating-results .rating-result, .top-rating-results .title, .top-rating-results .count {
+	margin-right: 5px;
+}
+.top-rating-results .star-result, .top-rating-results .count {
+	vertical-align: top;
+}
+.top-rating-results .rating-result-row + .star-result {
+	margin-left: 5px;
+}
+
+
+
+/* Rating Item Results */
+.rating-item-results table tbody tr td {
+	vertical-align: top;
+}
+.rating-item-results table tbody tr td .option, .rating-item-results table tbody tr td .total {
+	display:inline-block;
+}
+.rating-item-results table tbody tr + tr td {
+	margin-top: 2px;
+}
+.rating-item-results .description, .rating-item-results .rating-result {
+	margin-right: 5px;
+}
+
+
+
+/** 
+ * Common
+ */
+.user-rating-results, .top-rating-results, .rating-item-results, .rating-result-reviews  {
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+form.category-id-filter {
+	display: block;
+}
+form.category-id-filter label {
+	font-weight: normal;
+}
+form.category-id-filter select {
+	margin-left: 5px;
+}
+.category-id input[type=submit] {
+	margin-left: 5px;
+}
+.rating-item-result label.description, .comment-text label.description, .comment label.description,
+.rating-item label.description {
+	margin-right: 5px;
+}
+
+
+
+.mrp-thumbs-down-on + .mrp-thumbs-up-on, .mrp-thumbs-down-off + .mrp-thumbs-up-off,
+.mrp-thumbs-down-on + .mrp-thumbs-up-off, .mrp-thumbs-down-off + .mrp-thumbs-up-on {
+	margin-left: 10px;
+}
+
+.mrp-thumbs-up-on  + .total, .mrp-thumbs-down-on + .total, .option + .total {
+	margin-right: 10px;
+}
+
+.rating-item-results .star-rating { margin-left: 0px; }
+
+/* Table styles */
+
+/* option to turn off */
+.rating-result-reviews table, .rating-result-reviews td, .rating-result-reviews th, .rating-result-reviews tr {
+	border: none;
+	border-width: 0px;
+	border-spacing: 0px;
+	width: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+}
+.top-rating-results table, .top-rating-results td, .top-rating-results th, .top-rating-results tr {
+	border: none;
+	border-width: 0px;
+	border-spacing: 0px;
+	width: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+}
+.user-rating-results table, .user-rating-results td, .user-rating-results th, .user-rating-results tr {
+	border: none;
+	border-width: 0px;
+	border-spacing: 0px;
+	width: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+}
+.rating-item-results table, .rating-item-results td, .rating-item-results th, .rating-item-results tr, .rating-item-results tbody {
+	border: none;
+	border-width: 0px;
+	border-spacing: 0px;
+	width: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+}
